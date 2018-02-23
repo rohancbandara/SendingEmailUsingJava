@@ -54,13 +54,4 @@ public class SendEmail {
 
 	}
 
-	public static void main(String args[]) {
-		try {
-			SendingEmail("rohancbandara@gmail.com", "asfvsvgasvasasds");
-			System.out.println("sucess ending");
-		} catch (Exception e) {
-			// TODO: handle exception
-		}
-
-	}
 }
