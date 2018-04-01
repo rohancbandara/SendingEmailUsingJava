@@ -56,5 +56,4 @@ public class SendEmail {
 		}
 		return false;
 	}
-
 }

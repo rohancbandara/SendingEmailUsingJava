@@ -11,8 +11,7 @@ public class test {
 			boolean result = send.SendingEmail(email);
 			if (result) {
 				System.out.println("sucess");
-			}
-			else {
+			} else {
 				System.out.println("sfagdgsrg");
 			}
 		} catch (Exception e) {
